@@ -1,0 +1,43 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  text-align: center;
+}
+
+header {
+  text-align: right;
+  background-color: forestgreen;
+  border-bottom: 10px solid tan;
+  height: 50px;
+  padding: 10px;
+}
+
+header a {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.contact-section {
+  border-top: 3px solid brown;
+  background-color: tan;
+}
+
+footer {
+  background-color: forestgreen;
+  padding: 30px 0px 10px;
+  color: white;
+  border-bottom: 8px solid gray;
+}
+
+.form-control {
+  padding-bottom: 10px;
+}
+
+button {
+  background-color: brown;
+  color: white;
+  padding: 10px 40px;
+}
